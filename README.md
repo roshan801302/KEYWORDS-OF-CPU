@@ -88,5 +88,6 @@ Connects to a remote server via Secure Shell. Example: ssh user@server.com conne
 
 ## 30. hostname
 Displays or sets the system's hostname. Example: hostname shows the current hostname, and hostname newhostname changes it to newhostname.
+# common term used for PROSESSERS 
 
 
