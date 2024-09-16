@@ -1,2 +1,1 @@
-# KEYWORDS-OF-CPU
-Study purpus
+# linux some common comand
